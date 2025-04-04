@@ -10,36 +10,20 @@
   <br>
 
   <br>
-  <div align="center" style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-    <a href="https://www.linkedin.com/company/use-ocular/" style="display: flex; align-items: center; margin: 0 15px;">
-        <img
-          src="assets/linkedin.svg"
-          width="40px"
-          height="40px"
-        />
+  <p align="center">
+    <a href="https://www.linkedin.com/company/use-ocular/">
+      <img src="assets/linkedin.svg" width="40px" height="40px" alt="LinkedIn" style="vertical-align: middle; margin: 0 10px;">
     </a>
-    <a href="https://www.ycombinator.com/companies/ocular-ai" style="display: flex; align-items: center; margin: 0 15px;">
-        <img
-          src="assets/ycombinator.svg"
-          width="30px"
-          height="30px"
-        />
+    <a href="https://www.ycombinator.com/companies/ocular-ai">
+      <img src="assets/ycombinator.svg" width="30px" height="30px" alt="Y Combinator" style="vertical-align: middle; margin: 0 10px;">
     </a>
-    <a href="https://x.com/OcularHQ" style="display: flex; align-items: center; margin: 0 15px;">
-        <img
-          src="assets/x.svg"
-          width="20px" 
-          height="20px"
-        />
+    <a href="https://x.com/OcularHQ">
+      <img src="assets/x.svg" width="20px" height="20px" alt="X" style="vertical-align: middle; margin: 0 10px;">
     </a>
-    <a href="https://www.youtube.com/@OcularAI" style="display: flex; align-items: center; margin: 0 15px;">
-        <img
-          src="assets/youtube.svg"
-          width="35px" 
-          height="35px"
-        />
+    <a href="https://www.youtube.com/@OcularAI">
+      <img src="assets/youtube.svg" width="35px" height="35px" alt="YouTube" style="vertical-align: middle; margin: 0 10px;">
     </a>
-</div>
+  </p>
 </div>
 
 ## Ocular AI: Data Engine for The Multimodal AI Era
