@@ -1,2 +1,2 @@
 title,notebook_filename,colab_link,resources,paper_link,paper_title,repo_link,repo_name
-Fine-tuning Object Detection with YOLOv11,ocular_object_detection_yolov11.ipynb,https://colab.research.google.com/drive/1NVPtCmO9ZGj-8bynAeO1FdH53TzrKK2Y?usp=sharing,"[Ocular Blog](https://www.useocular.com/launch-weeks/2#day-5-part-2)",https://arxiv.org/abs/2410.17725,YOLOv11 Paper,https://github.com/ultralytics/ultralytics,YOLOv11 Repository
+Fine-tuning YOLOv11 for Object Detection,ocular_object_detection_yolov11.ipynb,https://colab.research.google.com/drive/1NVPtCmO9ZGj-8bynAeO1FdH53TzrKK2Y?usp=sharing,"[Ocular Blog](https://www.useocular.com/launch-weeks/2#day-5-part-2)",https://arxiv.org/abs/2410.17725,YOLOv11 Paper,https://github.com/ultralytics/ultralytics,YOLOv11 Repository

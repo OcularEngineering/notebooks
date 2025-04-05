@@ -48,7 +48,7 @@ We are committed to keeping this repository up to date, and we'll be adding new 
 </thead>
 <tbody>
 <tr>
-<td style="border: 1px solid #ddd; padding: 8px;">Fine-tuning Object Detection with YOLOv11</td>
+<td style="border: 1px solid #ddd; padding: 8px;">Fine-tuning YOLOv11 for Object Detection</td>
 <td style="border: 1px solid #ddd; padding: 8px; text-align: center;"><a href="https://colab.research.google.com/drive/1NVPtCmO9ZGj-8bynAeO1FdH53TzrKK2Y?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></td>
 <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://www.useocular.com/launch-weeks/2#day-5-part-2" target="_blank">Ocular Blog</a></td>
 <td style="border: 1px solid #ddd; padding: 8px;"><a href="https://arxiv.org/abs/2410.17725" target="_blank">YOLOv11 Paper</a>, <a href="https://github.com/ultralytics/ultralytics" target="_blank">YOLOv11 Repository</a></td>
